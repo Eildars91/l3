@@ -9,8 +9,7 @@ using namespace std;
 class child
 {
 private:
-	string name;
-	string surname;
+	string name,surname;
 	int age;
 public:
 	void ent()
