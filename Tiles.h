@@ -24,4 +24,4 @@ public:
 		cout << brand << " tiles with size_h=" << size_h << " and size_w=" << size_w << " costs " << price << endl;
 	}
 };
-#endif#pragma once
+#endif
