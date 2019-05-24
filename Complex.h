@@ -9,7 +9,7 @@ using namespace std;
 class CoMpLeX
 {
 public:
-	long float rez, imz;
+	double rez, imz;
 	void ent()
 	{
 		cout << "Vvedite deistvitelnyyou 4ast': ";
